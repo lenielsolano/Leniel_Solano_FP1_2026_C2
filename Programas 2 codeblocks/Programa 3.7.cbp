@@ -1,0 +1,31 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+    int I, N;
+
+    float LAN, SUM = 0, PRO = 0;
+
+
+    do {
+        printf("Ingrese el número de lanzamientos:\t");
+        scanf("%d", &N);
+    } while (N < 1 || N > 11);
+
+
+    for (I = 1; I <= N; I++) {
+
+        printf("\nIngrese el lanzamiento %d: ", I);
+        scanf("%f", &LAN);
+
+        SUM = SUM + LAN; // Acumulamos la suma en nuestra variable dedicada
+
+    }
+
+
+    PRO = SUM / N;
+
+    printf("\nEl promedio de lanzamientos es: %.2f\n", PRO);
+
+    return 0;
+}
