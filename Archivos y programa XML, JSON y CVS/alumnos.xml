@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<alumnos>
+    <alumno>
+        <matricula>20260001</matricula>
+        <nombre>Alejandro Gomez</nombre>
+        <carrera>1</carrera>
+        <promedio>8.5</promedio>
+        <examen>1350.0</examen>
+        <telefono>5551234567</telefono>
+    </alumno>
+    <alumno>
+        <matricula>20260002</matricula>
+        <nombre>Beatriz Mendoza</nombre>
+        <carrera>2</carrera>
+        <promedio>9.2</promedio>
+        <examen>1420.0</examen>
+        <telefono>5552345678</telefono>
+    </alumno>
+    <alumno>
+        <matricula>20260003</matricula>
+        <nombre>Carlos Martinez</nombre>
+        <carrera>1</carrera>
+        <promedio>7.8</promedio>
+        <examen>1280.0</examen>
+        <telefono>5553456789</telefono>
+    </alumno>
+    <alumno>
+        <matricula>20260004</matricula>
+        <nombre>Diana Rodriguez</nombre>
+        <carrera>3</carrera>
+        <promedio>8.9</promedio>
+        <examen>1390.0</examen>
+        <telefono>5554567890</telefono>
+    </alumno>
+    <alumno>
+        <matricula>20260005</matricula>
+        <nombre>Eduardo Sanchez</nombre>
+        <carrera>2</carrera>
+        <promedio>6.5</promedio>
+        <examen>1150.0</examen>
+        <telefono>5555678901</telefono>
+    </alumno>
+    <alumno>
+        <matricula>20260006</matricula>
+        <nombre>Fernanda Lopez</nombre>
+        <carrera>4</carrera>
+        <promedio>9.5</promedio>
+        <examen>1480.0</examen>
+        <telefono>5556789012</telefono>
+    </alumno>
+    <alumno>
+        <matricula>20260007</matricula>
+        <nombre>Gabriel Torres</nombre>
+        <carrera>5</carrera>
+        <promedio>7.2</promedio>
+        <examen>1310.0</examen>
+        <telefono>5557890123</telefono>
+    </alumno>
+    <alumno>
+        <matricula>20260008</matricula>
+        <nombre>Gabriela Ruiz</nombre>
+        <carrera>3</carrera>
+        <promedio>8.1</promedio>
+        <examen>1360.0</examen>
+        <telefono>5558901234</telefono>
+    </alumno>
+    <alumno>
+        <matricula>20260009</matricula>
+        <nombre>Hugo Perez</nombre>
+        <carrera>4</carrera>
+        <promedio>8.7</promedio>
+        <examen>1410.0</examen>
+        <telefono>5559012345</telefono>
+    </alumno>
+    <alumno>
+        <matricula>20260010</matricula>
+        <nombre>Isabel Ortiz</nombre>
+        <carrera>5</carrera>
+        <promedio>9.0</promedio>
+        <examen>1450.0</examen>
+        <telefono>5550123456</telefono>
+    </alumno>
+</alumnos>
